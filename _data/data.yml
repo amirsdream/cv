@@ -98,51 +98,46 @@ experiences:
       details: |
        Use latest technology to run multiple services in very scalable and available environment.
        Also corporate with team to find and implement a plan for runnig newly created apps. 
-            - Decouple old web services and rewrite as microservices mostly use Django/
-            Flask for backend and react/redux for frontend
+       
+          - Decouple old web services and rewrite as microservices mostly use Django/Flask for backend and react/redux for frontend
 
-            - Define multiple microservices and use Rabbitmq as message Brocker
-            system between services
+          - Define multiple microservices and use Rabbitmq as message Brocker system between services
 
-            - Use Celery and Redis server for running tasks async in the background in
-            Django services
+          - Use Celery and Redis server for running tasks async in the background in Django services
 
-            - Run CI/CD for automation system of multiple Istanbul municipalities with
-            more than a million requests per day
+          - Run CI/CD for automation system of multiple Istanbul municipalities with more than a million requests per day
 
-            - Implement a complete private cloud based on openstack and Openshift/
-            Kubernetes using layer 2 network load balancer Metallb and ingress nginx
+          - Implement a complete private cloud based on openstack and Openshift/Kubernetes using layer 2 network load balancer Metallb and ingress nginx
 
-            - Build a complete CI/CD pipeline for projects.
+          - Build a complete CI/CD pipeline for projects.
 
-            - Using Gitlab as a web interface for version control system
+          - Using Gitlab as a web interface for version control system
 
-            - Make pipeline in Jenkins by groovy script connected to Mattermost and Jira
+          - Make pipeline in Jenkins by groovy script connected to Mattermost and Jira
 
-            - Build testing code environment by sonarqube and return the result to the
-             developer via mattermost and jira bug tracker
+          - Build testing code environment by sonarqube and return the result to the developer via mattermost and jira bug tracker
 
-            - Saving artifact and Docker containers inside the sonatype nexus3 repository
+          - Saving artifact and Docker containers inside the sonatype nexus3 repository
 
-            - Deploy code to customer systems by ansible
+          - Deploy code to customer systems by ansible
 
-            - Using Sentry to track errors inside apps
+          - Using Sentry to track errors inside apps
 
-            - Fully dockerize web applications
+          - Fully dockerize web applications
 
-            - Automated build and deploy android and ios apps
+          - Automated build and deploy android and ios apps
 
-            - Build ocr saas to detect identity cards number and personal images
+          - Build ocr saas to detect identity cards number and personal images
 
-            - Scale up the environment to AWS public cloud
+          - Scale up the environment to AWS public cloud
 
-            - Implement ceph storage for high availabilty of private cloud
+          - Implement ceph storage for high availabilty of private cloud
 
-            - Write client-side image uploader with Golang
+          - Write client-side image uploader with Golang
 
-            - Agile methodology, scrum and Jira project manager used in the company
+          - Agile methodology, scrum and Jira project manager used in the company
 
-            - Use windows server adds for company
+          - Use windows server adds for company
 
           - Bullet point
           - Bullet point 
