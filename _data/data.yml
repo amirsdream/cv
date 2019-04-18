@@ -177,17 +177,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: DevOps Tools (jenkins , sonarqube , sonatype , ansible , docker)
+        level: 100%
+        
+      - name: Kubernetes
+        level: 80%
+        
       - name: Python & Django
-        level: 98%
+        level: 100%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Angular & react
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 100%
 
       - name: Ruby on Rails
         level: 85%
