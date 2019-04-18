@@ -14,24 +14,27 @@ sidebar:
     # Sidebar links
     email: amirsdream@gmail.com
     phone: 00905551476601
-    website: amirsdream.github.io/cv #do not add http://
+    website: amirsdream.github.io/online-cv #do not add http://
     linkedin: amir-hossein-jofreh-2b2258120
     github: amirsdream  
     gitlab: amirsdream
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@amirsdream'
+    stack-overflow: '@user2605238'
     codewars:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Persian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Turkish
+        level: Elementry
+        
+      - idiom: Germany
+        level: Elementry
         
     interests:
       - item: Climbing
