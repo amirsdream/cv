@@ -97,7 +97,8 @@ experiences:
       company: BETİK BİLİSİM, Istanbul
       details: |
        Use latest technology to run multiple services in very scalable and available environment.
-       Also corporate with team to find and implement a plan for runnig newly created apps. 
+       Also corporate with team to find and implement a plan for runnig newly created apps.The list of Jobs done
+       mentioned below:
        
           - Decouple old web services and rewrite as microservices mostly use Django/Flask for backend and react/redux for frontend
 
@@ -139,17 +140,41 @@ experiences:
 
           - Use windows server adds for company
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Tivan faham web samar
+      time: 2014 - 2017
+      company: Full-stack Developer, Shiraz
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Work as backend django developer and lately write frontend and deploy applications
+        to production servers. Alse build mobile applications by javascript and angular. List of job done
+        mentioned in a below list:
+        
+           - built a affiliate and ecommerce platform . The goal
+            was to deliver high quality ecommerce app to local shops. This
+            Project uses most advanced web frameworks and technologies like
+            Angular 6 ,Laravel 5.4 hosted on cloud.With Implementation of Continuous
+            Integration and Continuous Delivery
+            
+            - Ka2yab Android Ios App , Written in Typescript and use Node.js,
+            Ionic and Angular. An app for ka2yab.com store
+            
+            - Realestate app , built with react django,job search company
+            
+            - Komuch Ios App , using Node.js, Ionic and Angular. Performed
+            automated testing using Selenium. Designed and built production
+            quality NoSQL databases
+            
+            - School service app based on python/ django and vuejs. Automation of
+            transportation all institutes in shiraz
+            
+            - ole cafe , based on python/ django and vuejs and angular. Private
+            local cafe e-commerce app and website
+            
+            - web app based on php and opencart.The goal was to
+            deliver high quality Nuts ecommerce app in Iran
+            
+            - Linux System Admin, most of websites run on cloud and docker with
+            different type of os like Archlinux Debian FreeBSD.
 
-          - Bullet point
           - Bullet point
 
     - role: UI Developer
