@@ -69,14 +69,10 @@ education:
       university: Eastern Mediterranean University
       time: 2011 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Researching on sparse signal and orthogonal matching pursuit implement it
+        over gpu with opencl and C++ on arch linux 
 
-          - Bullet point
-          - Bullet point 
+          - Impelement high performance computing on gpu 
 
     - degree: BSc in Electrical and Electronics engineering
       university: Azad university
