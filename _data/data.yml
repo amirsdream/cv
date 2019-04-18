@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -173,18 +173,18 @@ experiences:
 
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Mobile Communications
+      time: 2008 - 2011
+      company: SonyMobile, Shiraz
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Start as junior developer and kernel developer and create custom kernel and patch drivers on android
+        os
 
-          - Bullet point
-          - Bullet point
+          - repair damage cellphones and repair their softwares
+          
+          - create custom roms to fix kernel issue or performance issues
+          
+          - Involed in CyongenMod custom android project as developer and translator
 
 projects:
     title: Projects
