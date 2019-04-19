@@ -189,30 +189,28 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of projects
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: BetikOto
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Create devops system to run betik otomation on municipalities"
 
-      - title: Tempo
+      - title: Election
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Write election analyze appliction as microservice with more than 100 million data"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ka2yab
+        link: "http://ka2yab.com"
+        tagline: "An affiliate and ecommerce platform written in angular and php"
 
-      - title: Delta
+      - title: irangoldennuts
+        link: "irangoldennuts.com"
+        tagline: "an ecommerce opencart website to sell nuts"
+
+      - title: komuch
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An Ios app to sell bread in city based on ionic and angular 6"
 
 publications:
     title: Awards
@@ -233,12 +231,15 @@ skills:
     toolset:
       - name: DevOps Tools (jenkins , sonarqube , sonatype , ansible , docker)
         level: 100%
+      
+      - name: Python & Django
+        level: 100%
+        
+      - name: HTML5 & CSS
+        level: 100%
         
       - name: Kubernetes
         level: 80%
-        
-      - name: Python & Django
-        level: 100%
 
       - name: Javascript & jQuery
         level: 80%
@@ -246,8 +247,7 @@ skills:
       - name: Angular & react
         level: 50%
 
-      - name: HTML5 & CSS
-        level: 100%
+
 
 
 footer: >
