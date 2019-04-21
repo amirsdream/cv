@@ -109,6 +109,8 @@ experiences:
 
           - Build testing code environment by sonarqube and return the result to the developer via mattermost and jira bug tracker
 
+          - Use Zabbix, Prometheus, grafana and netdata for monitoring 
+          
           - Saving artifact and Docker containers inside the sonatype nexus3 repository
 
           - Deploy code to customer systems by ansible
