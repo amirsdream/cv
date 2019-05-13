@@ -49,17 +49,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Amirhossein jofreh was born in 1987. He received the B.sc degree
-      in electrical and electonic engineering from the University of Azad, in
-      2008, and Msc degrees in electrical and electronic engineering from
-      the Eastern Mediterranean University North Cyprus in 2013 . 
-      Since December 2003, he has been working on
-      linux, command line nix systems. Also, he is working on python,
-      PHP ,C/C++, javascript, typescript, git, IOT , Embedded devices
-      and its frameworks (like laravel,django,React) since 2011.he joined Tivan faham web Samar, 
-      as a DevOps Engineer and Full-stack developer in 2015 and start as DevOps engineer in betik
-      bilisim in 2018. He was one of the core developer of ka2yab.com website (based on Angular 5, Laravel ,
-      Django) And DevOps engineer of Betik Automation system.
+      Amirhossein Jofreh was born in 1987. He received his B.sc degree in electrical and electronic engineering from University of Azad, in 2008, and his MSc degree in electrical and electronic engineering from Eastern Mediterranean University of North Cyprus, in 2013. 
+
+      Since December 2003, he is working on Linux and command line nix systems. Also, Since August 2011, he is working on Python, PHP, C/C++, javascript, typescript, git, IOT, Embedded devices and its frameworks (like Laravel, Django, React). he joined Tivan faham web Samar, as a DevOps Engineer and Full-stack developer in 2015. he worked on ka2yab.com website (based on Angular 5, Laravel, Django) which is one the most important e-commerce website in Iran .
+
+      Also,  In 2018 started as a DevOps engineer in Betik Bilisim. He is one of the core developers of two important projects in Betik Bilisim. One of them is an election web application which is based on Django and React. He is a developer and  DevOps engineer in this project. The other one is Betik Automation system DevOps. He creates a devops pipeline (Jenkins, Sonarqube, selenium, ansible, docker)and, Also, runs a complete private cloud (OpenStack, Kubernetes) solution for Betik automation system.
+
+      He also follows other technologies as a hobby in his free time like robotics. and He achieved two national awards from RoboCup competition in 2016 and 2017
+
+
+
+
 education:
     - degree: MSc in Electrical and Electronics engineering
       university: Eastern Mediterranean University
