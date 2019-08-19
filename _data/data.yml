@@ -105,29 +105,17 @@ experiences:
 
           - Using Gitlab as a web interface for a version control system and Make pipeline in Jenkins by groovy script connected to Mattermost and Jira 
 
-          - Use Zabbix, Prometheus, grafana and netdata for monitoring 
+          - TDD and BDD with unit tests, selenium, and Sonarqube and return the result to the developer via Mattermost and Jira bug tracker
           
-          - Saving artifact and Docker containers inside the sonatype nexus3 repository
+          - Use Zabbix, Prometheus, Grafana, and Netdata for monitoring and Sentry to track errors inside apps
 
-          - Deploy code to customer systems by ansible
-
-          - Using Sentry to track errors inside apps
-
-          - Fully dockerize web applications
+          - Saving artifact and Docker containers inside the Sonatype nexus3 repository
 
           - Automated build and deploy android and ios apps
 
-          - Build ocr saas to detect identity cards number and personal images
+          - Build Ocr saas to detect identity cards number and personal images
 
-          - Scale up the environment to AWS public cloud
-
-          - Implement ceph storage for high availabilty of private cloud
-
-          - Write client-side image uploader with Golang
-
-          - Agile methodology, scrum and Jira project manager used in the company
-
-          - Use windows server adds for company
+          - Agile methodology, scrum and Jira project manager used in the company 
 
     - role: Tivan faham web samar
       time: 2014 - 2017
