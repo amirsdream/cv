@@ -50,7 +50,7 @@ career-profile:
     title: Career Profile
     summary: |
       DevOps Engineer, Full Stack Developer, Linux, Python, Java, C/C++, JavaScript specialist.
-      
+
       Since December 2003, he is working on Linux and command line nix systems. Also, since August 2011, he is working with Python, Java, C/C++, PHP, javascript, typescript, git, IoT and its frameworks (like Django, React,Spring).
 
       he joined Sony mobile team as a software developer and sysadmin and maintain and develop their applications and web services until 2017. Also, he joined Tivan faham web Samar as a DevOps Engineer and Full-stack developer since 2014. he worked as a frontend developer on Ka2yab web project (Angular , Laravel ) and, as backend and frontend developer on many other projects based on Django and React.
@@ -81,22 +81,21 @@ education:
 
 experiences:
     - role: Devops engineer and Full Stack developer
-      time: 2017 - Present
-      company: BETİK BİLİSİM, Istanbul
+      time: 2018 - Present
+      company: BETİK BİLİŞİM VE REKLAM HİZMETLERİ LTD. , Istanbul
       details: |
-       Use latest technology to run multiple services in very scalable and available environment.
-       Also corporate with team to find and implement a plan for runnig newly created apps.The list of Jobs done
+       BetikBilisim is a leading enterprise automation software company that cooperate with municipalities and millions of their client.The list of Jobs done
        mentioned below:
        
-          - Decouple old web services and rewrite as microservices mostly use Django/Flask for backend and react/redux for frontend
+          - Runs a private part of BetikOto services in a private cloud, based on OpenStack and Openshift/Kubernetes and using layer 2 network load balancer Metallb and ingress Nginx, and also create Ceph storage for high Availability of private cloud
 
-          - Define multiple microservices and use Rabbitmq as message Brocker system between services
+          - Runs a non-private part of BetikOto services on AWS EKS and Kubernetes to orchestrate dockers inside the instance.
 
-          - Use Celery and Redis server for running tasks async in the background in Django services
+          - Connect BetikOto Cloud Services to RDS and Dynamodb.
 
-          - Run CI/CD for automation system of multiple Istanbul municipalities with more than a million requests per day
+          - Use AWS Cloudformation to run the nested template 
 
-          - Implement a complete private cloud based on openstack and Openshift/Kubernetes using layer 2 network load balancer Metallb and ingress nginx
+          - Use Terraform and Ansible complementary to run and deploy production services on AWS
 
           - Build a complete CI/CD pipeline for projects.
 
