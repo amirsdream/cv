@@ -97,13 +97,13 @@ experiences:
 
           - Use Terraform and Ansible complementary to run and deploy production services on AWS
 
-          - Build a complete CI/CD pipeline for projects.
+          - Create Betik election an API gateway for microservices with Spring Boot.
 
-          - Using Gitlab as a web interface for version control system
+          - Create Betik election microservices and use Kafka as a message Brocker system between services and elastic search and Kibana to search and analyze data and Logstash to catch incidents.
 
-          - Make pipeline in Jenkins by groovy script connected to Mattermost and Jira
+          - Use Celery, Rabbitmq and Redis server for running tasks async in the background in Django services
 
-          - Build testing code environment by sonarqube and return the result to the developer via mattermost and jira bug tracker
+          - Using Gitlab as a web interface for a version control system and Make pipeline in Jenkins by groovy script connected to Mattermost and Jira 
 
           - Use Zabbix, Prometheus, grafana and netdata for monitoring 
           
